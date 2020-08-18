@@ -1,0 +1,39 @@
+/*Estilos Personalizados*/
+
+body{
+    font-size: 1.2rem;
+    
+}
+
+.fondo-nav{
+    background: #13151d !important;
+}
+
+#inicio{
+    background: url("../imagenes/Inicio1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    width: 100%;
+    height: 800px;
+    background: rgba(0,0,0,0.3);
+    color: white;
+    padding-top: 300px ;
+}
+
+#empresa{
+
+    background: #df2176;
+    color: white;
+}
+
+#entrada{
+    background: rgba(0,0,0,0.1);
+}
+
+#contacto{
+    background: #df2176;
+    
+}
